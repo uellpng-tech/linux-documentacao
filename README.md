@@ -1,4 +1,4 @@
 # Anotações Das Aulas de Linux
 
-## Contúdos
+## Conteúdos
 - [Instalação do Sistema Operacional](instalacao-do-sistema-operacional.md)
