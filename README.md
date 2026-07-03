@@ -1,4 +1,4 @@
-# Documentação Das Aulas de Linux
+# Documentação dos estudos de Linux
 
 ## Conteúdos
 - [Instalação do Sistema Operacional](instalacao-do-sistema-operacional.md)
