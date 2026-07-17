@@ -1,4 +1,4 @@
-## Terminal: Manipulação de Diretórios
+## Terminal: Manipulação de Diretórios e Arquivos
 
 # Atalhos
 
